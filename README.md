@@ -1,6 +1,11 @@
-# alone-blog
 
-nuxt3+tailwindcss快速搭建个人博客、门户网站、企业官网
+
+基于alone-blog二次改造，兼容手机、电脑，所有图片等媒体资源均为个人测试使用，公司名称均为虚构。
+
+## 截图
+![alt text](image.png)
+![alt text](image-2.png)
+![alt text](image-1.png)
 
 ## Setup
 
