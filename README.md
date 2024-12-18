@@ -7,13 +7,15 @@
 ![alt text](image-2.png)
 ![alt text](image-1.png)
 
+## node v20.18.1
+
 ## Setup
 
 Make sure to install the dependencies:
 
 ```bash
 # yarn
-yarn install
+yarn
 
 # npm
 npm install
